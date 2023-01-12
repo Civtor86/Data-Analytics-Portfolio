@@ -1,2 +1,2 @@
-# Google Data-Analytics-Portfolio
-Google Data Analytics Capstone
+SQL Analytics Project-Portfolio
+SQL Project
