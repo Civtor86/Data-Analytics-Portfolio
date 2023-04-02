@@ -1,4 +1,3 @@
-
 Projects I have done for SQL using both PostgreSQL and Collab
 Copy_of_Victor_B_Sanchez_Week_1_Project_SQLCC.ipynb
 Copy_of_Victor_B_Sanchez_Week_2_Project_SQLCC.ipynb
